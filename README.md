@@ -1,2 +1,2 @@
 # oe_reservoir
-Building blocks and training for different optoelectronic reservoir architectures
+Constructing building blocks and training for different optoelectronic reservoir architectures
